@@ -1,0 +1,14 @@
+{
+  "name": "Splits — Walk/Run Intervals",
+  "short_name": "Splits",
+  "description": "A focused walk/run interval trainer that works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F2027",
+  "theme_color": "#0F2027",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
